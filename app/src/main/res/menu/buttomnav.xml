@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fHome"
+        android:title="Home"
+        android:icon="@drawable/home"/>
+
+
+
+    <item
+        android:id="@+id/fResep"
+        android:title="Resep"
+        android:icon="@drawable/frame"/>
+
+
+    <item
+        android:id="@+id/fKulkas"
+        android:title="Kulkas"
+        android:icon="@drawable/settings"/>
+    <item
+        android:id="@+id/fPromo"
+        android:title="Promo"
+        android:icon="@drawable/settings"/>
+    <item
+        android:id="@+id/fprofil"
+        android:title="Kulkas"
+        android:icon="@drawable/settings"/>
+
+
+</menu>
